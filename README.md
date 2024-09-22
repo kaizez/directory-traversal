@@ -12,8 +12,10 @@ Make sure you have the following installed on your system:
 ### 1. Clone the repository
 
 - First, clone the project repository to your local machine:
+``` shell
+ git clone https://github.com/kaizez/directory-traversal
+``` 
 
-- git clone https://github.com/kaizez/directory-traversal
 ``` shell
  cd directory-traversal
 ```
